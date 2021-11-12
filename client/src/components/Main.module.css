@@ -1,0 +1,9 @@
+.note {
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+    background-color: rgb(255, 229, 153);
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
